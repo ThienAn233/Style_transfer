@@ -12,5 +12,5 @@ implementation for the presentation of Justin about style transfer in CS231n cou
 ## Style no.2: "cubic"
 ![cu](images/cubic_image.jpg)
 ## A good image ?
-By the effect of bluring the original image, sharp edges are removed for a more artistic image
+By bluring the original image, sharp edges are removed for a more artistic image
 ![st](images/cubic_final.png)
